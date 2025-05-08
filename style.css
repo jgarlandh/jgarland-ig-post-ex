@@ -6,8 +6,8 @@ body{
 
 .post{
     background-color: white;
-    padding: 10px;
     width: 500px;
+    padding: 0px;
 }
 
 .post-header{
@@ -33,9 +33,13 @@ body{
     justify-content: space-between;
 }
 
+.post-img{
+    padding: 0px;
+}
+
 i{
     font-size: 30px;
-    padding: 2px;
+    padding: 0px;
 }
 
 div{
